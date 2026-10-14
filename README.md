@@ -17,4 +17,4 @@ python word_norm.py sample.txt
 
 Expected output:
 
-[sample.png](assets/analyse-sample.png)
+![sample.png](assets/analyse-sample.png)
